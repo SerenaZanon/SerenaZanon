@@ -5,9 +5,7 @@ In my spare time I am a scout, a dancer and a speaker on a local podcast!
 
 ---
 
-## ⚡ Technology Suite 
-
-<h2>⚡ Tech Stack</h2>
+<h2>🪄 Technology Suite</h2>
 
 <table>
   <tr>
