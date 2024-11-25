@@ -11,6 +11,7 @@ Anyway, I'm a very active and busy person! Indeed, in my spare time I am a scout
 
 | **Field**      | **Skills**                                                                                                                                                                                                                                                                                                            |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
-| **Databases**  | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
-| **More**       |  ![LaTex](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg) ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg") |
+| **Languages**  | [![Languages](https://skillicons.dev/icons?i=cpp, java, py, r)](https://skillicons.dev) |
+| **Databases**  | [![DB](https://skillicons.dev/icons?i=mongodb, postgres, mysql)](https://skillicons.dev)  |
+| **More**       |  [![More](https://skillicons.dev/icons?i=latex, html)](https://skillicons.dev) |
+| **Stage**      | [![Stage](https://skillicons.dev/icons?i= aws, dynamodb)](https://skillicons.dev)
