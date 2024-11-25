@@ -11,7 +11,7 @@ Anyway, I'm a very active and busy person! Indeed, in my spare time I am a scout
 
 | **Field**      | **Skills**                                                                                                                                                                                                                                                                                                            |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![Languages](https://skillicons.dev/icons?i=cpp, java, py, r)](https://skillicons.dev) |
-| **Databases**  | ![DB](https://skillicons.dev/icons?i=mongodb, postgres, mysql)](https://skillicons.dev)  |
-| **More**       | ![More](https://skillicons.dev/icons?i=latex, html)](https://skillicons.dev) |
-| **Stage**      | ![Stage](https://skillicons.dev/icons?i= aws, dynamodb)](https://skillicons.dev)
+| **Languages**  | [![Languages](https://skillicons.dev/icons?i=cpp,java,py,r)](https://skillicons.dev) |
+| **Databases**  | [![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)  |
+| **More**       | [![More](https://skillicons.dev/icons?i=latex,html)](https://skillicons.dev) |
+| **Stage**      | [![Stage](https://skillicons.dev/icons?i=aws,dynamodb)](https://skillicons.dev)
