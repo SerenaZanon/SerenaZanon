@@ -3,6 +3,8 @@ I am a Master's student at Ca' Foscari University and I am attending the 'Comput
 
 In my bachelor degree at Ca' Foscari University I became acquainted with data analysis and data science and was hooked from the very first moment! I was immediately fascinated by the fact that there is a whole world behind a single piece of data if you have the right insight! 
 
+I really love english and I know even a bit of french and german! Plus, this year I decided to start studying spanish on my own and I found it really funny! 
+
 Anyway, I'm a very active and busy person! Indeed, in my spare time I am a scout, a dancer and a speaker on a local podcast!
 
 ---
